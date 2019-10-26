@@ -1,0 +1,11 @@
+div.mynav {
+    background-color: #2672DD;
+}
+
+div.mynav.fixed {
+    height:160px;
+}
+
+div.mynav.flex {
+    flex: auto;
+}
